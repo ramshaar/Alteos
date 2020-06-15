@@ -1,0 +1,30 @@
+ Testing Of  https://shop.alteos.com/escooter
+
+1.Visit Inspect and check Elements, Console and sources if require.
+
+2. Check the network calls, no call has burst or failed. (Passed)
+
+3. Balanced view of webpage content on laptop and mobile. (Passed)
+4. Accuracy of updated content/Advertisement on a webpage. (Passed)
+5. Updated Advertisement Of Euro 2.42/ month. (Passed)
+6. Workable Hyperlink "To Offer" on 4 different locations on a page. (Passed)
+7. Successfull redirection to https://shop.alteos.com/escooter/quote . (Passed)
+8. Manufacturer (Mandatory) field with the pop up hint for user. (Passed)
+9. Model (Mandatory) field with the pop up hint for user. (Passed)
+10. Start of Insurance field with the pop up hint for user. (Passed)
+11. Validating the Start Of Insurance date must be current date. (Passed)
+12. Insurance Type field with the pop up hint for user. (Passed)
+13. Two options under Insurance Type field. (Passed)
+14. Only single option can be selected at a time. (Passed)
+15. Vehicle Identification Number (Mandatory) field  with the pop up hint for user. (Passed)
+16. Else Check the box below confirming "I will provide the vehicle identification number (VIN) later" . (Passed)
+17. And also Check (Mandatory) check box states a particular condition due date for submission of VIN. (Passed)
+18. Displaying Payable Amount on the side of the page. (Passed)
+19. Continue button not workable until all (Mandatory) fields fill out. (Passed)
+
+
+
+
+ 
+
+
